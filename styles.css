@@ -1,0 +1,67 @@
+.home.title {
+    font-size: 80px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#chef {
+    height: 400px;
+    width: 800px;
+   
+}
+
+.recipe-link {
+    font-size: 30px;
+}
+
+.home-chilli {
+    background-color: rgb(150, 20, 46);
+    color: black;
+}
+
+.home-brocolli {
+    background-color: green;
+    color: black;
+}
+
+.home-cheese {
+    background-color: yellow;
+    color: black;
+}
+
+.home-page {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.chilli .image {
+    width: 800px;
+    height: 400px;
+}
+
+.cheese .image {
+    width: 800px;
+    height: 400px;
+}
+
+.brocolli .image {
+    width: 800px;
+    height: 400px;
+}
+
+.chilli {
+    background-color: rgb(122, 19, 40);
+}
+
+.brocolli {
+    background-color: green;
+}
+
+.cheese {
+    background-color: yellow;
+}
+.title {
+    font-size: 80px;
+}
+
+
